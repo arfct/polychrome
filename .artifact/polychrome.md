@@ -7,6 +7,9 @@ tags:
 links:
   source: https://github.com/arfct/polychrome
 media:
+  - src: sidebar-wikipedia.png
+    caption: The sidebar beside a Wikipedia article—pinned sites on top, then tabs gathered into Computing, Machines and Navigation groups
+    alt: A narrow sidebar listing four pinned site icons and three colored tab groups of Wikipedia articles, with Ada Lovelace highlighted, beside the open Ada Lovelace article
   - src: sidebar.png
     caption: The sidebar docked beside a browser window, tabs sorted into colored groups
     alt: A Chrome window on a bulldog page, with a sidebar to its left listing pinned icons and tab groups named Docs and News

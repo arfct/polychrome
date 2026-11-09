@@ -8,7 +8,7 @@ links:
   source: https://github.com/arfct/polychrome
 media:
   - src: sidebar-wikipedia.png
-    caption: The sidebar beside a Wikipedia article—pinned sites on top, then tabs gathered into Computing, Machines and Navigation groups
+    caption: The sidebar beside a Wikipedia article, with pinned sites on top and tabs grouped into Computing, Machines and Navigation
     alt: A narrow sidebar listing four pinned site icons and three colored tab groups of Wikipedia articles, with Ada Lovelace highlighted, beside the open Ada Lovelace article
   - src: sidebar.png
     caption: The sidebar docked beside a browser window, tabs sorted into colored groups
@@ -17,6 +17,6 @@ unconfirmed:
   - date
 ---
 
-The tab strip was never designed for how people actually browse. Once Chrome learned to unload background tabs on its own, keeping many tabs open stopped being a vice—and the thin horizontal strip stopped being adequate. Polychrome moves the whole problem sideways: a full sidebar of tabs and groups, docked to the left of the browser window.
+Polychrome is a Chrome extension that lists tabs and tab groups in a sidebar docked to the left of the browser window. Chrome now unloads background tabs on its own, so many tabs can stay open, and the horizontal tab strip has little room for them.
 
-The sidebar treats tabs as a collection worth curating. Group them, archive them, build a structure you recognize, and keep the things you return to within reach. A Chrome extension, Manifest V3, popped out into its own window.
+In the sidebar, tabs can be grouped and archived, sites can be pinned, and the ones the user returns to stay in view. It is a Manifest V3 extension, popped out into its own window.

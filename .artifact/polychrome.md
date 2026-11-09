@@ -10,7 +10,6 @@ media:
   - src: sidebar.png
     caption: The sidebar docked beside a browser window, tabs sorted into colored groups
     alt: A Chrome window on a bulldog page, with a sidebar to its left listing pinned icons and tab groups named Docs and News
-role: Design, Engineering
 unconfirmed:
   - date
 ---

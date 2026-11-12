@@ -1,6 +1,7 @@
 ---
 title: Polychrome
 date: 2021-05
+status: released
 category: product
 tags:
   - browser-extension
@@ -15,8 +16,7 @@ media:
   - src: sidebar.png
     caption: The sidebar to the left of a Chrome window, its tabs under groups named Docs and News
     alt: A Chrome window on a bulldog page, with a sidebar to its left listing pinned icons and tab groups named Docs and News
-unconfirmed:
-  - date
+unconfirmed: [date, status]
 ---
 
 Polychrome's README observes that Chrome now unloads background tabs on its own, which makes it worthwhile to keep a great many open, and that the tab strip has no room for them. The extension lists them down the left edge of the browser. Its sidebar is a separate popup window 256 pixels wide, and where the screen has no space to the left of the browser, the browser window is narrowed by 256 pixels to make room.

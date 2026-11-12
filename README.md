@@ -19,3 +19,7 @@ Polychrome lets you more carefully curate, group, and archive your tabs, buildin
 3. Drag the root directory of this repository in.
 4. Pin the toolbar button
 5. Open it and pop out the window
+
+## Catalogue
+
+Polychrome's entry in the [Artifact catalogue](https://catalogue-artifact.pages.dev/catalog/polychrome/) lives in [`.artifact/`](.artifact/polychrome.md). Edit it there; the catalogue imports it.

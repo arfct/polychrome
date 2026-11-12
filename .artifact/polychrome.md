@@ -5,6 +5,7 @@ category: product
 tags:
   - browser-extension
 links:
+  chrome_web_store: https://chromewebstore.google.com/detail/polychrome-vertical-tab-g/pcdogalliibjgamnojnpbmbabghfijak
   source: https://github.com/arfct/polychrome
 media:
   - src: sidebar-wikipedia.png

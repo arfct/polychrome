@@ -2,7 +2,7 @@
 title: Polychrome
 date: 2021-05
 status: released
-category: product
+category: browser-extension
 tags:
   - browser-extension
 url: https://chromewebstore.google.com/detail/polychrome-vertical-tab-g/pcdogalliibjgamnojnpbmbabghfijak
